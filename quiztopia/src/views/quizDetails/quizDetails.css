@@ -1,0 +1,9 @@
+.leaflet-popup-content {
+  font-size: 14px;
+  font-weight: bold;
+  color: #444;
+}
+
+#map{
+    width: 80vw;
+}
